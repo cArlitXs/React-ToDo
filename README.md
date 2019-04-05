@@ -5,5 +5,5 @@
 2. Ejecuta Node  
 ```npm start```
 3. Ve al navegador  
-```127.0.0.1:3000``` o  
+```127.0.0.1:3000```  
 ```localhost:3000```
